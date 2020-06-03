@@ -1,0 +1,82 @@
+﻿[
+  {
+    "Model": "M10",
+    "Producer": "Meizu",
+    "Year": "2017",
+    "Diagonal": "5.29",
+    "Memory": "32",
+    "Price": "199"
+  },
+  {
+    "Model": "A70",
+    "Producer": "Samsung",
+    "Year": "2020",
+    "Diagonal": "6.29",
+    "Memory": "64",
+    "Price": "225"
+  },
+  {
+    "Model": "MI 9T",
+    "Producer": "Xiaomi",
+    "Year": "2019",
+    "Diagonal": "6.26",
+    "Memory": "64",
+    "Price": "329"
+  },
+  {
+    "Model": "10x",
+    "Producer": "Honor",
+    "Year": "2017",
+    "Diagonal": "5.99",
+    "Memory": "32",
+    "Price": "360"
+  },
+  {
+    "Model": "Redmi K30",
+    "Producer": "Redmi",
+    "Year": "2020",
+    "Diagonal": "6.67",
+    "Memory": "128",
+    "Price": "599"
+  },
+  {
+    "Model": "Vivo Next",
+    "Producer": "Oppo",
+    "Year": "2019",
+    "Diagonal": "6.3",
+    "Memory": "128",
+    "Price": "600"
+  },
+  {
+    "Model": "S10",
+    "Producer": "Samsung",
+    "Year": "2019",
+    "Diagonal": "6.67",
+    "Memory": "512",
+    "Price": "999"
+  },
+  {
+    "Model": "Rog Phone",
+    "Producer": "Asus",
+    "Year": "2018",
+    "Diagonal": "5.99",
+    "Memory": "512",
+    "Price": "999"
+  },
+  {
+    "Model": "P30",
+    "Producer": "Huawei",
+    "Year": "2019",
+    "Diagonal": "6.29",
+    "Memory": "512",
+    "Price": "1299"
+  },
+  {
+    "Model": "Mate X",
+    "Producer": "Huawei",
+    "Year": "2020",
+    "Diagonal": "12.4",
+    "Memory": "1024",
+    "Price": "1999"
+  }
+]
